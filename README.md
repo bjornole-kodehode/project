@@ -6,7 +6,7 @@
  
 Prosjektet med navnet TurbinSikker fokuserer på å imøtekomme behovene til en oppdiktet kunde ved å utvikle en innovativ app for dokumentasjon av avvik i forbindelse med havvindturbiner. Dette spennende prosjektet tar sikte på å levere en brukervennlig nettapplikasjon som kan benyttes både på datamaskiner og mobile enheter.
 
-Vårt dedikerte team består av engasjerte utviklerpraktikanter som er ivrige etter å bygge sine ferdigheter og tilegne seg praktisk kunnskap innen programvareutvikling. Her får vi muligheten til å delta i alle aspekter av utviklingen – fra frontend til backend – under veiledning av erfarne mentorer.
+Vårt dedikerte team består av engasjerte utviklerpraktikanter og utviklere som er ivrige etter å bygge sine ferdigheter og tilegne seg praktisk kunnskap innen programvareutvikling. Her får vi muligheten til å delta i alle aspekter av utviklingen – fra frontend til backend – under veiledning av erfarne mentorer.
 
 Vi har fokusert sterkt på å simulere reelle arbeidsforhold gjennom praksis med å holde demoer for "kunden" og arbeide i sprinter. Dette gir oss verdifull erfaring med prosjektstyring og kommunikasjon, samtidig som det hjelper å forstå viktigheten av å kontinuerlig levere funksjoner og forbedringer.
 
