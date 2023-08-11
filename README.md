@@ -1,6 +1,6 @@
-# project
+# Turbinsikker
 
-### Turbinsikker
+
 <a href="https://github.com/OptiCorp/turbin-sikker-api" target="_blank">Backend Repo</a> <br /> 
 <a href="https://github.com/OptiCorp/TurbinSikker-App" target="_blank">Frontend repo</a> <br />
  
