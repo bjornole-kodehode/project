@@ -1,7 +1,8 @@
 # project
 
 ### Turbinsikker
-<a href="https://github.com/OptiCorp/turbin-sikker-api">Backend Repo</a> <br /> <a href="https://github.com/OptiCorp/TurbinSikker-App">Frontend repo</a> <br />
+<a href="https://github.com/OptiCorp/turbin-sikker-api" target="_blank">Backend Repo</a> <br /> 
+<a href="https://github.com/OptiCorp/TurbinSikker-App" target="_blank">Frontend repo</a> <br />
  
 Prosjektet med navnet TurbinSikker fokuserer på å imøtekomme behovene til en oppdiktet kunde ved å utvikle en innovativ app for dokumentasjon av avvik i forbindelse med havvindturbiner. Dette spennende prosjektet tar sikte på å levere en brukervennlig nettapplikasjon som kan benyttes både på datamaskiner og mobile enheter.
 
